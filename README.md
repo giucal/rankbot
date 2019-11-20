@@ -2,13 +2,19 @@
 
 Very simple rank bot for [Discord](https://discordapp.com) channels.
 
+This is a fork. The original project is:
+
+    https://github.com/AeronIkarus/rankbot
+
+You can list changes with `git shortlog`.
+
 ## Why?
 
 In some channels you get some experience points for every message you send.
 
 ## Install
 
-    go get github.com/nhooyr/rankbot
+    go get github.com/giucal/rankbot
 
 ## Usage
 
